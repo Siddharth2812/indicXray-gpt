@@ -1,0 +1,42 @@
+filename,response,status
+AB_training_11.png,"The image appears to be a chest X-ray, showing the thoracic cavity, including the lungs, heart, and surrounding structures. 
+
+In a typical chest X-ray, you would look for the following:
+
+1. **Lung Fields**: The lungs should appear clear without any abnormal opacities or masses. Any signs of consolidation, nodules, or fluid could indicate issues such as pneumonia, tumors, or pleural effusion.
+
+2. **Heart Size and Shape**: The heart should be of normal size and shape. An enlarged heart could suggest heart disease or other cardiovascular issues.
+
+3. **Diaphragm and Pleura**: The diaphragm should be well-defined, and the pleural spaces should be free of fluid or air.
+
+4. **Bones and Soft Tissues**: The ribs and spine should appear intact without fractures or lesions.
+
+If there are any abnormalities, such as unusual shadows, fluid levels, or structural changes, these could indicate various medical conditions. However, without specific training in radiology, it's essential to consult a medical professional for an accurate interpretation of any findings.",success
+AB_training_13.png,"The image is a chest X-ray showing a frontal view of the thoracic cavity. The X-ray displays the rib cage, lungs, heart, and surrounding structures. 
+
+In a typical chest X-ray, you would expect to see clear lung fields, a well-defined heart silhouette, and no abnormal shadows or opacities. 
+
+Common issues that can be identified in chest X-rays include:
+
+1. **Lung Infections**: Such as pneumonia, which may appear as localized opacities.
+2. **Pleural Effusion**: Fluid accumulation in the pleural space, often seen as blunting of the costophrenic angles.
+3. **Tumors or Masses**: Abnormal growths that can appear as distinct shadows.
+4. **Cardiomegaly**: An enlarged heart, which can be indicated by a wider heart silhouette.
+5. **Fractures**: Broken ribs or other bony structures.
+
+Without specific details or abnormalities visible in the image, I cannot provide a diagnosis or identify any issues. For an accurate assessment, a medical professional should evaluate the X-ray.",success
+AB_training_6.png,"The image appears to be a chest X-ray, showing the thoracic cavity, including the lungs, heart, and surrounding structures. 
+
+In a typical chest X-ray, you would look for the following:
+
+1. **Lungs**: They should appear clear without any signs of consolidation, fluid, or masses. Any abnormalities such as opacities or nodules could indicate issues like pneumonia, tumors, or other lung diseases.
+
+2. **Heart**: The heart should be of normal size and shape. An enlarged heart could suggest heart disease or other conditions.
+
+3. **Bones**: The ribs and spine should be intact without fractures or lesions.
+
+4. **Diaphragm**: The diaphragm should be well-defined and positioned normally.
+
+5. **Mediastinum**: The area between the lungs should not show any widening or abnormal masses.
+
+If there are any specific findings such as increased opacity, fluid levels, or unusual shapes, those could indicate various medical conditions. However, without specific details or abnormalities noted in the image, I cannot provide a diagnosis or identify issues. For an accurate interpretation, a medical professional should review the X-ray.",success
