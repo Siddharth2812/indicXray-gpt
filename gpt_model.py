@@ -27,7 +27,12 @@ print(llm.invoke(input=[
                 },
                 {
                     "type": "text",
-                    "text": "Describe the image in detail, what is the issue that you can find in the image chest?",
+                    "text": """You are a radiologist, you are given an image of a chest x-ray, you need to describe the image in detail, what is the issue that you can find in the image chest? Your response should be in the following format:
+                    View: <what view of the chest is this?>,
+                    Clinical Impression: <what is the clinical impression for the image?>,
+                    Findings: <what is the issue that you can find in the image chest?>,
+                    Suggestions: <what are the suggestions for the patient?>
+                    """,
                 },
             ],
         },
